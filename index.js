@@ -19,7 +19,10 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-
+//The nested function is the child function inside the parent function and it can access the variable from parents function. 
+//We can also say that nested function is a blocked scope inside the parent function. If the nested function was outside of 
+//myFunction() then it would not have been able to access the internal variable as that variable is accessible only with in the 
+//myFunction (). 
 
 
 
